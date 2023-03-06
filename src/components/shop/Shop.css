@@ -1,0 +1,20 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.product-container{
+    background-color: rgb(39, 160, 130);
+    padding-top: 140px;
+}
+.product-div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+}
+.cart-container{
+    background-color: rgb(226, 179, 79);
+}
+.cart-title{
+    text-align: center;
+}
