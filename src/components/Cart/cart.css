@@ -1,0 +1,11 @@
+.cart{
+    position: sticky;
+    top:0;
+    text-align: center;
+    background-color: rgb(226, 179, 79);
+
+
+}
+.cart-title{
+    text-align: center;
+}
